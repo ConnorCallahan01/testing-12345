@@ -2,7 +2,7 @@
   "version": "1.0",
   "projectId": "4670c3e0-baf7-4afa-98ad-4d022a4a1f07",
   "createdAt": "2026-02-09T20:12:24.055Z",
-  "updatedAt": "2026-02-09T20:36:16.714Z",
+  "updatedAt": "2026-02-09T20:36:19.818Z",
   "files": [
     {
       "id": "be6fd3a4-37ef-4b08-8366-4517fc3f14d0",
@@ -15,8 +15,20 @@
       "createdAt": "2026-02-09T20:36:16.297Z",
       "updatedAt": "2026-02-09T20:36:16.297Z",
       "tags": []
+    },
+    {
+      "id": "18d5c002-2cd7-4fa1-94ae-0c7a9c7b6ec1",
+      "name": "regulatory-tracker-architecture (1).png",
+      "path": "repository/technical-specifications/regulatory-tracker-architecture (1).png",
+      "folder": "technical-specifications",
+      "mimeType": "image/png",
+      "size": 516467,
+      "sha": "ac77a0633a93b2f9491f8914f086f7df9ed07f2e",
+      "createdAt": "2026-02-09T20:36:19.583Z",
+      "updatedAt": "2026-02-09T20:36:19.583Z",
+      "tags": []
     }
   ],
   "externalLinks": [],
-  "storageUsed": 22273
+  "storageUsed": 538740
 }
